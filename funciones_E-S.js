@@ -13,8 +13,8 @@ console.log("Hola mundo!");
 // "node funciones_E-S.js"
 
 // CONCATENACIÓN
-// def: utilizamos la concatenación cuando queremos imprimir el valor de
-// un texto y contenidos de variables. En JS se utiliza el símbolo "+"
+// def: utilizamos la concatenación cuando queremos imprimir diferentes tipos
+// de datos jubtos, ó con contenidos de variables. En JS se utiliza el símbolo "+"
 // Ejemplo:
 var dia = 18;
 var mes = "Noviembre";
