@@ -1,4 +1,4 @@
-# introd_prog_I_Nov
+# Introd_Prog_I_JS
 Curso Introducción a la Programación I de Barcelona Activa
 
 ## links a las webs de apoyo del curso
